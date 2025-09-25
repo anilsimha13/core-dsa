@@ -1,0 +1,56 @@
+# Node modules
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Dependency directories
+yarn.lock
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Mac system files
+.DS_Store
+
+# Environment files
+.env*
+
+# TypeScript
+*.tsbuildinfo
+
+# Coverage
+coverage/
+
+# Misc
+*.log
+*.tmp
+.parcel-cache/
+/dist
+
+# React specific
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+# Optional: Ignore test snapshots
+__snapshots__/
+
+# Optional: Ignore storybook files
+.storybook/
+
+# Optional: Ignore ESLint cache
+.eslintcache
+
+# Optional: Ignore Prettier cache
+.prettiercache
