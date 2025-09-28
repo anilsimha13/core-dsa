@@ -16,3 +16,23 @@
   - Arrays within Arrays
 
 - Functions
+  - Named
+  - Anonymous
+  - Arrow functions
+- Conditional Statements
+  - if
+  - if-else
+  - if-else-if
+  - switch
+
+## Day-2
+
+- Loops
+  - for
+  - while
+
+```javascript
+for (Initialization; condition; Increment / Decrement) {
+  //Code to execute
+}
+```
