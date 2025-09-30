@@ -36,3 +36,12 @@ for (Initialization; condition; Increment / Decrement) {
   //Code to execute
 }
 ```
+
+## Day-3
+
+### Problems and Solution for following LOOPS
+
+- Find an element in an array
+- Count the duplicates in an array
+- Largest number in an array
+- Second largest number in an array
