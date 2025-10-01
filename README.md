@@ -45,3 +45,7 @@ for (Initialization; condition; Increment / Decrement) {
 - Count the duplicates in an array
 - Largest number in an array
 - Second largest number in an array
+
+## Day-3
+
+### Loops within Loops
