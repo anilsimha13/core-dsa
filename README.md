@@ -46,6 +46,21 @@ for (Initialization; condition; Increment / Decrement) {
 - Largest number in an array
 - Second largest number in an array
 
-## Day-3
+  ## Day-4
 
 ### Loops within Loops
+
+```javascript
+for (let i = 0; i < 3; i++) {
+  for (let j = 0; j < 3; j++) {
+    console.log(i, j);
+  }
+}
+```
+
+## Day-5
+
+### Star Patterns
+
+- i is for rows
+- j is for columns
