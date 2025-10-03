@@ -64,3 +64,11 @@ for (let i = 0; i < 3; i++) {
 
 - i is for rows
 - j is for columns
+
+## Day-6
+
+- Count Digits
+  - Math.floor (Rounds down the value)
+  - Math.ceil (Rounds up the value)
+  - Math.round(Rounds off)
+  - Math.abs (Removes the negative Numbers)

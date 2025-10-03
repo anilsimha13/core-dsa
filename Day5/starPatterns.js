@@ -99,3 +99,58 @@ for (let i = 0; i < n; i++) {
   console.log(row);
 }
 console.log("~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+
+/*
+ - - - - *
+ - - - * *
+ - - * * *
+ - * * * *
+ * * * * *
+*/
+for (let i = 0; i < n; i++) {
+  let row = " ";
+  //adding empty spaces
+  for (j = 0; j < n - (i + 1); j++) {
+    row = row + "_";
+  }
+  //adding stars
+  for (k = 0; k < i + 1; k++) {
+    row = row + "*";
+  }
+  console.log(row);
+}
+console.log("~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+
+/*
+ 1
+ 10
+ 101
+ 1010
+ 10101
+*/
+for (let i = 0; i < n; i++) {
+  let row = " ";
+  let toggle = 1;
+  for (let j = 0; j <= i; j++) {
+    row = row + toggle;
+    toggle == 1 ? (toggle = 0) : (toggle = 1);
+  }
+  console.log(row);
+}
+console.log("~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+let toggle = 1;
+/*
+ 1
+ 01
+ 010
+ 1010
+ 10101
+*/
+for (let i = 0; i < n; i++) {
+  let row = " ";
+  for (let j = 0; j <= i; j++) {
+    row = row + toggle;
+    toggle == 1 ? (toggle = 0) : (toggle = 1);
+  }
+  console.log(row);
+}
