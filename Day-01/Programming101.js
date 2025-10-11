@@ -43,4 +43,3 @@ let obj = {
 };
 console.log(obj.favoriteColors[1]);
 console.log(obj.name + " " + obj.nickName);
-console.log("~~~~Functions~~~~");
