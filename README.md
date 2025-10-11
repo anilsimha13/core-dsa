@@ -27,4 +27,3 @@
   - Keys are strings (or Symbols) that represent the property names, while values can be of any data type.
   - Objects can be created using object literals (e.g., const obj = { key: value }) or the Object constructor (e.g., const obj = new Object()).
   - Common object methods include Object.keys(), Object.values(), Object.entries(), and hasOwnProperty().
-- **Functions**
