@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Day-01 | Warm up](#day-01--warm-up)
+- [Day-02 | Function, if-else]
 
 ## Day-01 | Warm up
 
@@ -27,3 +28,20 @@
   - Keys are strings (or Symbols) that represent the property names, while values can be of any data type.
   - Objects can be created using object literals (e.g., const obj = { key: value }) or the Object constructor (e.g., const obj = new Object()).
   - Common object methods include Object.keys(), Object.values(), Object.entries(), and hasOwnProperty().
+
+## Day-02 | Function, if-else
+
+- 1. Functions in JavaScript
+
+  - What is a Function?
+  - Function Declaration
+  - Function Expression
+  - Arrow Functions
+  - Parameters and Arguments
+  - Return Statement
+
+- 2. Conditional Statements
+  - if Statement
+  - if-else Statement
+  - else-if Ladder
+  - Nested if Statements
