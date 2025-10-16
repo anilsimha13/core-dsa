@@ -3,7 +3,8 @@
 ## Table of Contents
 
 - [Day-01 | Warm up](#day-01--warm-up)
-- [Day-02 | Function, if-else]
+- [Day-02 | Function, if-else](Day-02-Function-if-else)
+- [Day-03 | Loops01](Day-03-Loops01)
 
 ## Day-01 | Warm up
 
@@ -45,3 +46,27 @@
   - if-else Statement
   - else-if Ladder
   - Nested if Statements
+
+## Day-03 | Loops01
+
+- For Loop
+
+```js
+for (let i = 0; i < 5; i++) {
+  //for(initialization;condition;change)
+  console.log("Hello World!!!");
+}
+```
+
+- While Loop
+
+```js
+let i = 0;
+//initialization
+while (i < 5) {
+  //condition
+  console.log("Hello World");
+  i++;
+  //change
+}
+```
