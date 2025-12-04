@@ -4,6 +4,7 @@
 
 1. [Introduction](#1-introduction)
 2. [Warm Up](#2-warm-up)
+   - 2a. [Programming 101](#2a-programming-101)
 
 ### 1. Introduction
 
@@ -20,3 +21,25 @@
 - Happy coding! 🚀
 
 ### 2. Warm Up
+
+#### 2a. Programming 101
+
+_File Location:_ [programming101.js](./WarmUp/programming101.js)
+
+_Topics Covered_
+
+- Javascript runs the code line by line.
+- `console.log()`
+- Strings
+- Numbers
+- Booleans
+- Variables (let, const, var)
+- Basic Operators
+- let vs const vs var
+  - let: block-scoped, can be reassigned
+  - const: block-scoped, cannot be reassigned
+  - var: function-scoped, can be reassigned
+- Concatenation
+- Comments
+- Arrays
+- Objects
