@@ -47,8 +47,17 @@ _Topics Covered_
 
 #### 2b. Functions, if-else
 
-_File Location:_ [functionsIfElse.js](./WarmUp/functionsIfElse.js)
+_File Location:_ [functionsANDifElse.js](./WarmUp/functionsANDifElse.js)
+
 _Topics Covered_
+
+- Function declarations
+- Function parameters and arguments
+- Return statements
+- If-else conditionals
+- Ternary operators
+- Nested ternary operators
+  _Topics Covered_
 
 - Functions
 
