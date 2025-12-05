@@ -5,6 +5,7 @@
 1. [Introduction](#1-introduction)
 2. [Warm Up](#2-warm-up)
    - 2a. [Programming 101](#2a-programming-101)
+   - 2b. [Functions, if-else](#2b-functions-if-else)
 
 ### 1. Introduction
 
@@ -43,3 +44,20 @@ _Topics Covered_
 - Comments
 - Arrays
 - Objects
+
+#### 2b. Functions, if-else
+
+_File Location:_ [functionsIfElse.js](./WarmUp/functionsIfElse.js)
+_Topics Covered_
+
+- Functions
+
+```js
+function evenORodd(num) {
+  num % 2 == 0
+    ? console.log("Entered number " + num + " is Even")
+    : console.log("Entered number " + num + " is Odd");
+}
+evenORodd(13);
+evenORodd(18);
+```
