@@ -6,6 +6,8 @@
 2. [Warm Up](#2-warm-up)
    - 2a. [Programming 101](#2a-programming-101)
    - 2b. [Functions, if-else](#2b-functions-if-else)
+   - 2c. [Loops - 01](#2c-loops---01)
+   - 2d. [Loops - 02](#2d-loops---02)
 
 ### 1. Introduction
 
@@ -69,4 +71,50 @@ function evenORodd(num) {
 }
 evenORodd(13);
 evenORodd(18);
+```
+
+#### 2c. Loops - 01
+
+_File Location:_ [loops01.js](./WarmUp/loops01.js)
+
+_Topics Covered_
+
+- For loops
+- While loops
+
+```js
+// For Loop Example
+//Initialization, Condition, Increment/Decrement
+for (let i = 1; i <= 5; i++) {
+  console.log("Iteration number: " + i);
+}
+```
+
+```js
+//For Loops - Iterating through an Array
+let arrs = [10, 20, 30, 40];
+
+for (let arr of arrs) {
+  console.log(arr);
+}
+
+for (let i = 0; i < arrs.length; i++) {
+  console.log(arrs[i]);
+}
+```
+
+- While Loop Example
+
+```js
+let a = 0;
+while (a < 4) {
+  console.log("While Loop", a);
+  a++;
+}
+```
+
+#### 2d. Loops - 02
+
+```
+
 ```
