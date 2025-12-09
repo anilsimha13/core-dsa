@@ -115,6 +115,16 @@ while (a < 4) {
 
 #### 2d. Loops - 02
 
-```
+_Topics Covered_:
 
-```
+- Q1: Write a function that searches for a specific value in an array and returns its index. If the value is not found, return -1.
+  - File Location: [searchElement](./WarmUp/searchElement.js)
+- Q2: Write a function that returns the number of negative numbers in an array.
+  - File Location: [countNegativeNumbers](./WarmUp/countNegativeNumbers.js)
+- Q3: Write a function that returns the largest number in an array.
+  - File Location: [findLargestNumber](./WarmUp/findLargestNumber.js)
+- Infinity and -Infinity in Javascript
+  - Infinity represents a value that is larger than any other number.
+  - -Infinity represents a value that is smaller than any other number.
+- Q4: Write a function that returns the smallest number in an array.
+  - File Location: [findSmallestNumber](./WarmUp/findSmallestNumber.js)
