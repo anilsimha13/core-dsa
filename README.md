@@ -8,6 +8,7 @@
    - 2b. [Functions, if-else](#2b-functions-if-else)
    - 2c. [Loops - 01](#2c-loops---01)
    - 2d. [Loops - 02](#2d-loops---02)
+   - 2e. [Second Largest Number](#2e-second-largest-number)
 
 ### 1. Introduction
 
@@ -128,3 +129,10 @@ _Topics Covered_:
   - -Infinity represents a value that is smaller than any other number.
 - Q4: Write a function that returns the smallest number in an array.
   - File Location: [findSmallestNumber](./WarmUp/findSmallestNumber.js)
+
+#### 2e. Second Largest Number
+
+_File Location:_ [secondLargestNumber.js](./WarmUp/secondLargestNumber.js)
+_Topics Covered_:
+
+- Write a function that returns the second largest number in an array.
