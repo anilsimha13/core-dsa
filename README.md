@@ -9,6 +9,7 @@
    - 2c. [Loops - 01](#2c-loops---01)
    - 2d. [Loops - 02](#2d-loops---02)
    - 2e. [Second Largest Number](#2e-second-largest-number)
+   - 2f. [Loop in Loop](#2f-loop-in-loop)
 
 ### 1. Introduction
 
@@ -136,3 +137,7 @@ _File Location:_ [secondLargestNumber.js](./WarmUp/secondLargestNumber.js)
 _Topics Covered_:
 
 - Write a function that returns the second largest number in an array.
+
+#### 2f. Loop in Loop
+
+_File Location:_ [loopInLoop](./WarmUp/loopsINloops.js)
