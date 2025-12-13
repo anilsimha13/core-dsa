@@ -10,6 +10,7 @@
    - 2d. [Loops - 02](#2d-loops---02)
    - 2e. [Second Largest Number](#2e-second-largest-number)
    - 2f. [Loop in Loop](#2f-loop-in-loop)
+   - 2g. [Star Patterns](#2g-star-patterns)
 
 ### 1. Introduction
 
@@ -141,3 +142,31 @@ _Topics Covered_:
 #### 2f. Loop in Loop
 
 _File Location:_ [loopInLoop](./WarmUp/loopsINloops.js)
+
+#### 2g. Star Patterns
+
+_File Location:_ [starPatterns.js](./WarmUp/starPatterns.js)
+
+- `i` is responsible for rows
+- `j` is responsible for columns
+
+```js
+/*
+
+ * * * *
+ * * * *
+ * * * *
+ * * * *
+ 
+ */
+function printStarPattern4_4(n) {
+  for (let i = 0; i < n; i++) {
+    let row = " ";
+    for (let j = 0; j < n; j++) {
+      row = row + "* ";
+    }
+    console.log(row);
+  }
+}
+printStarPattern4_4(4);
+```
